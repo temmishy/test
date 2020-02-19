@@ -1,6 +1,6 @@
 #include <iostream>
 #include <conio.h>
-//first git commit
+
 using namespace std;
 
 class RatNum {
